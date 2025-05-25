@@ -55,6 +55,7 @@ Got about midway to performance data and click the download button on the top ri
 * Performance metrics for Atoka HS and statewide comparisons- Atoka above the zscore of 1.
 * Identification and performance of magnet schools and charters- Atoka scores were just below many of the top magnets.
 * Schools that outperformed Atoka HS, identified for follow-up research
+* Atoka compares with a passrate for the state report card of 32 compared to the state being a mean of 19 and sd of 12. This means we were more than 1 sd above the mean.
 
 ## Tools and Libraries
 
