@@ -1,6 +1,3 @@
-Here's a cleaned-up version of your `README.md` file without the license section and with simplified formatting (no clipart bullets):
-
----
 
 # 2023AtokaScidatavsstate
 
